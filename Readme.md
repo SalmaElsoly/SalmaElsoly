@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=HI,%20I'm%20Salma%F0%9F%91%8B&animation=scaleIn&fontSize=60)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=HI,%20I'm%20Salma%F0%9F%91%8B&animation=scaleIn&fontSize=60" width="100%">
+</div>
+
 
 <br clear="both">
 
@@ -77,10 +80,6 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/SalmaElsoly/SalmaElsoly/output/snake.svg" alt="Snake animation" />
-
-###
-
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&animation=scaleIn&fontSize=60)
+<div align="center">
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&animation=scaleIn&fontSize=60" width="100%"> 
+</div>
