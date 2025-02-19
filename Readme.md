@@ -46,11 +46,15 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=elixir" height="40" alt="elixir logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="elixir logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="elixir logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
@@ -71,6 +75,10 @@
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=terraform" height="40" alt="googlecloud logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
