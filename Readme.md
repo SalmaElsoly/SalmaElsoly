@@ -46,6 +46,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=elixir" height="40" alt="elixir logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="elixir logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=dart" height="40" alt="elixir logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
@@ -58,9 +60,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vue logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
